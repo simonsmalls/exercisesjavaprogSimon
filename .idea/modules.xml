@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming/ACCA/ACCA.iml" filepath="$PROJECT_DIR$/JavaProgramming/ACCA/ACCA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming/CourseAdmin/CourseAdmin.iml" filepath="$PROJECT_DIR$/JavaProgramming/CourseAdmin/CourseAdmin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming/JavaProgramming.iml" filepath="$PROJECT_DIR$/JavaProgramming/JavaProgramming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming/Syntax/Syntax.iml" filepath="$PROJECT_DIR$/JavaProgramming/Syntax/Syntax.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hello/hello.iml" filepath="$PROJECT_DIR$/hello/hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lam/lam.iml" filepath="$PROJECT_DIR$/lam/lam.iml" />
+      <module fileurl="file://$PROJECT_DIR$/objectoriented.iml" filepath="$PROJECT_DIR$/objectoriented.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaProgramming/shapes/shapes.iml" filepath="$PROJECT_DIR$/JavaProgramming/shapes/shapes.iml" />
+    </modules>
+  </component>
+</project>
